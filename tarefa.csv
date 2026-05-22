@@ -1,0 +1,16 @@
+id_talhao,temperatura,humidade_solo,ph_solo,nitrogenio,fosforo,potassio,tipo_historico_colheita,necessita_intervencao
+T_101,28.4,45.2,6.2,42.0,21.0,35.0,Mecanizada,Nao
+T_102,31.1,38.0,5.5,35.0,,28.0,Manual,Sim
+T_103,29.5,50.1,6.8,50.0,25.0,40.0,Mecanizada,Nao
+T_104,26.1,42.3,,39.0,18.0,33.0,Manual,Nao
+T_105,33.4,31.5,5.1,22.0,12.0,20.0,Manual,Sim
+T_106,27.8,48.9,6.4,47.0,23.0,38.0,Mecanizada,Nao
+T_107,29.2,36.7,5.8,31.0,15.0,26.0,Manual,Sim
+T_108,30.5,,6.1,40.0,20.0,34.0,Mecanizada,Nao
+T_109,32.0,33.2,5.3,25.0,14.0,22.0,Manual,Sim
+T_110,26.9,52.4,6.7,53.0,26.0,42.0,Mecanizada,Nao
+T_111,28.7,41.1,5.9,36.0,17.0,30.0,Manual,Sim
+T_112,30.1,46.8,6.3,,22.0,36.0,Mecanizada,Nao
+T_113,34.2,29.0,4.9,18.0,10.0,17.0,Manual,Sim
+T_114,25.5,55.0,6.9,55.0,28.0,45.0,Mecanizada,Nao
+T_115,29.9,39.5,5.6,33.0,16.0,,Manual,Sim
